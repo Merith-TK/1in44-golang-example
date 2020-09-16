@@ -1,5 +1,5 @@
 # What is this?
-This is a rewrite of the python example that waveshare provides for their 1in44 display hat
+This is a rewrite of the python example that waveshare provides for their [1in44 display hat](https://www.amazon.com/dp/B07VBT1JRW)
 
 Currently only the buttons are functional after making sure this python runs on startup
 
